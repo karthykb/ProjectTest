@@ -1,0 +1,8 @@
+
+Pubic Class MyFirstClass
+{
+Public static void main (string args[])
+{
+system.out.println("I am Karthick");
+}
+}
